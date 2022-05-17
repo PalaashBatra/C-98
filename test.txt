@@ -1,0 +1,3 @@
+I am a test file.
+I am a text document.
+You write in this specific type of document.
